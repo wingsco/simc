@@ -70,7 +70,7 @@ level=80
 race=mechagnome
 role=spell
 position=ranged_back
-talents=CAEAAAAAAAAAAAAAAAAAAAAAAMzYzsZBzwMzmHAmHYmGjZGzMGmZmZYmZmZYmZmZmZMYGIAAwMz2yyyMTbAAAAAAYWAAAAAAAAA
+talents=CAEAAAAAAAAAAAAAAAAAAAAAAMzYzsZBzwMzmHAmHYmGjZGzMGmZmZYMzMzYmZmZmZMYGIAAwMz2yyyMTbAAAAAAYWAAAAAAAAA
 
 potion=tempered_potion_3
 flask=flask_of_alchemical_chaos_3
